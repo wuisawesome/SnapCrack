@@ -1,0 +1,2 @@
+This is a PoC python script for brute forcing snapchat passwords.
+The included files are only for educational purposes and password recovery. If you've forgoten YOUR password and need to recover it this tool may help. If you've also forgotten your username you can simply search through the included usernames file and try to find it. This tool is not intended for use on any other person/account other than your own.  
